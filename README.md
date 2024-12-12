@@ -1,2 +1,4 @@
-# django-geo-spaas-processing-auxiliary
-Auxiliary files for GeoSPaaS processing
+# Auxiliary files for GeoSPaaS processing
+
+The files are contained in the releases.
+
